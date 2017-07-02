@@ -1,0 +1,35 @@
+.search-bar {
+  border-radius: 2px;
+  border: 1px solid #bbb;
+  box-sizing: border-box;
+  font-size: 18px;
+  padding: 10px 8px;
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.items {
+	border: 0.1px solid #bbb;
+	padding: 10px;
+}
+
+.items:hover {
+	background-color: #e6e6e6;
+}
+
+.image {
+	width: 40px;
+  height: 40px;
+  padding-right: 12px;
+}
+
+.title {
+  position: relative;
+  top: -12px;
+}
+
+.heading {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
